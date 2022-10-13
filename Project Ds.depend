@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1592582764 source:c:\users\acer\desktop\project ds\avl.cpp
+	<iostream>
+	"AVL.h"
+
+1592584103 c:\users\acer\desktop\project ds\avl.h
+
+1592514040 source:c:\users\acer\desktop\project ds\binarytree.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1592496982 c:\users\acer\desktop\project ds\binarytree.h
+
+1592499394 source:c:\users\acer\desktop\project ds\hashtable.cpp
+	<iostream>
+	"HashTable.h"
+	<math.h>
+
+1592496982 c:\users\acer\desktop\project ds\hashtable.h
+	<string>
+	<cstring>
+	<iostream>
+
+1592578699 source:c:\users\acer\desktop\project ds\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<chrono>
+	<time.h>
+	"avl.h"
+	"BinaryTree.h"
+	"Hashtable.h"
+
