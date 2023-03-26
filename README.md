@@ -1,7 +1,6 @@
-# Data-Structures
-Binary tree / Avl Tree / HashTable 
+# Data-Structures project
+Binary tree / Avl Tree / HashTable from scratch implementation using C++ programming language 
 
-ΤΕΧΝΙΚΗ ΕΚΘΕΣΗ
 
 Πίνακας Κατακερματισμού ( HashTable.h – HashTable.cpp )
 Αρχικά, έφτιαξα το struct Node στο οποίο αποθηκεύεται η λέξη και η μεταβλητή η οποία μετράει το πόσες φορές εμφανίζεται η λέξη στο αρχείο και έπειτα κατασκεύασα τον πίνακα κατακερματισμού ως ένα δυναμικό array από Nodes στο heap ,  καθώς το μέγεθος του είναι πάρα πολύ μεγάλο για να μπει στο stack. 
